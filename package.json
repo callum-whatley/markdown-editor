@@ -36,6 +36,25 @@
     "playwright": "^1.51.1"
   },
   "dependencies": {
-    "@app/main": "*"
+    "@app/main": "*",
+    "@codemirror/commands": "^6.8.0",
+    "@codemirror/gutter": "^0.19.9",
+    "@codemirror/highlight": "^0.19.8",
+    "@codemirror/history": "^0.19.2",
+    "@codemirror/lang-javascript": "^6.2.3",
+    "@codemirror/lang-markdown": "^6.3.2",
+    "@codemirror/language": "^6.11.0",
+    "@codemirror/language-data": "^6.5.1",
+    "@codemirror/matchbrackets": "^0.19.4",
+    "@codemirror/state": "^6.5.2",
+    "@codemirror/theme-one-dark": "^6.1.2",
+    "assert": "^2.1.0",
+    "github-markdown-css": "^5.8.1",
+    "lezer": "^0.13.5",
+    "process": "^0.11.10",
+    "remark-gfm": "^4.0.1",
+    "remark-parse": "^11.0.0",
+    "remark-react": "^9.0.1",
+    "unified": "^11.0.5"
   }
 }
